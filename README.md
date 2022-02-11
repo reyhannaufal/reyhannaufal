@@ -1,8 +1,5 @@
-## Status
-<p>
-  <a href="https://github.com/reyhannaufal">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reyhannaufal&show_icons=true&theme=default&count_private=true&show_icons=true&hide=contribs" />
-  </a>
-</p>
+# 😉🙌
+
+<img src="https://user-images.githubusercontent.com/59334824/153553125-ff9c0c04-68c7-4727-b741-09f74fc92efe.jpg" alt="cover" width="400"/>
 
 
